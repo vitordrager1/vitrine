@@ -1,0 +1,9 @@
+.container {
+    background-color: #d8d8d8;
+    height: 90vh;
+}
+
+.footer-container {
+    position: absolute;
+    width: 100%;
+}
